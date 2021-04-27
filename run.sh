@@ -1,6 +1,6 @@
 #!/bin/bash
 
-datadir=/data/HOME/bliu/workspace/speaker/data/vox/
+datadir=/exdata/HOME/snie/code/asvspoof/speaker_asvspoof/dataset_min/speaker/data
 expdir=exp
 stage=2
 
